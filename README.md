@@ -23,7 +23,7 @@ cd <--FOLDER-NAME-->
 
 ### Install the dependencies
 
-Ba-da-boom! Your code is all there.... however you need to install depencides like React, NextJS, and TailwindCSS into your project so the stuff actually works! Do so by installing them with the package manager of your choice:
+Ba-da-boom! Your code is all there.... however you need to install dependencies like React, NextJS, and TailwindCSS into your project so the stuff actually works! Do so by installing them with the package manager of your choice:
 
 ```bash
 # NPM
@@ -73,11 +73,13 @@ yarn dev
 
 ### Deploy onto a live website!
 
-Now, how do you get this published for all the world to see? [Vercel](https://vercel.com) is an awesome and 100% free option for this:
+Now, how do you get this published for all the world to see? [Vercel](https://vercel.com) is an awesome and 100% free option for this. 
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2FBraydenTW%2Fobsidian)
+Signup for free with your Github account and click the "New Project" button on your dashboard.
 
-Then...
+<img src="./vercel.png" alt="New Project button" width="600">
+
+Import the github repository you just created then after some loading...
 
 ![Mission accomplished](./gronk.gif)
 
