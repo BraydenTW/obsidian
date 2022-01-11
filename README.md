@@ -103,7 +103,7 @@ Share it with some friends, family members, employers?
 
 ## About the developer
 
-<h3><a href="https://github.com/braydentw">@BraydenTW</h3>
+<h3><a href="https://github.com/braydentw">@BraydenTW</a></h3>
 Hey there! My name is Brayden and I'm a Frontend Developer and Designer building and designing awesome stuff for the web! I like to work with technologies like NextJS, TailwindCSS, and exploring the JavaScript ecosystem.
 <br /><br />
 Like my work?
