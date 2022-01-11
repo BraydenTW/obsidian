@@ -4,6 +4,16 @@
 
 _✨ Obsidian is a minimal and lightweight portfolio template built on NextJS and TailwindCSS. ✨_
 
+* [Setup](#setup)
+    * [Install the dependencies](#install-the-dependencies)
+    * [Edit content](#edit-content)
+    * [Change the Favicon](#change-the-favicon)
+* [Try it out!](#try-it-out)
+    * [Run locally!](#run-locally)
+    * [Deploy onto a live website!](#deploy-onto-a-live-website)
+* [About the developer](#about-the-developer)
+
+
 ## Setup
 
 First, start by clicking the 'Use this template' button. It will create a clone of this repository.
@@ -41,7 +51,7 @@ To do so, open the `data/config.js` file and edit the values to what makes you, 
 
 Also, replace the image located in `public/static/profile.png` with a picture of yourself! Or a cool avatar! Or just keep it the same if you are actually LeBron James! (Hey LeBron if you're looking at this, then "hello world" to you!)
 
-### Edit the Favicon
+### Change the Favicon
 
 So... you want to change that icon that shows up on your browser tab for your portfolio? (aka: A "Favicon")
 
@@ -56,6 +66,8 @@ Follow these steps:
     <img src="./faviconFolder.png" alt="Favicon folder" width="300" />
 
 Then it should be ready!
+
+## Try it out!
 
 ### Run locally!
 
@@ -93,7 +105,7 @@ Share it with some friends, family members, employers?
 
 <h3>@BraydenTW</h3>
 Hey there! My name is Brayden and I'm a Frontend Developer and Designer building and designing awesome stuff for the web! I like to work with technologies like NextJS, TailwindCSS, and exploring the JavaScript ecosystem.
-
+<br />
 Like my work?
 
 <a href="https://www.buymeacoffee.com/braydenw" target="_blank"><img src="https://raw.githubusercontent.com/BraydenTW/BraydenTW/master/buy-me-a-coffee.svg" alt="Buy Me A Coffee: @BraydenW" width="160"></a>&nbsp;&nbsp;
