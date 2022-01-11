@@ -103,11 +103,11 @@ Share it with some friends, family members, employers?
 
 ## About the developer
 
-<h3>@BraydenTW</h3>
+<h3>[@BraydenTW](https://github.com/braydentw)</h3>
 Hey there! My name is Brayden and I'm a Frontend Developer and Designer building and designing awesome stuff for the web! I like to work with technologies like NextJS, TailwindCSS, and exploring the JavaScript ecosystem.
-<br />
+<br /><br />
 Like my work?
-
+<br /><br />
 <a href="https://www.buymeacoffee.com/braydenw" target="_blank"><img src="https://raw.githubusercontent.com/BraydenTW/BraydenTW/master/buy-me-a-coffee.svg" alt="Buy Me A Coffee: @BraydenW" width="160"></a>&nbsp;&nbsp;
 <a href="https://paypal.me/braydentw" target="_blank"><img src="https://raw.githubusercontent.com/BraydenTW/BraydenTW/master/paypal.svg" alt="PayPal: @BraydenTW" width="160"></a>
 
