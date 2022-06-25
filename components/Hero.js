@@ -7,14 +7,14 @@ export default function Hero() {
   return (
     <div className="mb-20">
       <div className="flex flex-row justify-between items-center w-full">
-      <div class="text-center">
-  <img
-    src="static/profile.jpg"
-    class="mx-auto mb-4 w-32 rounded-full"
+      <div className="text-center">
+  <image
+    src="public/static/profile.jpg"
+    className="mx-auto mb-4 w-32 rounded-full"
     alt="Avatar"
   />
-  <h5 class="mb-2 text-xl font-medium leading-tight">John Doe</h5>
-  <p class="text-gray-500">Web designer</p>
+  <h5 className="mb-2 text-xl font-medium leading-tight">John Doe</h5>
+  <p className="text-gray-500">Web designer</p>
 </div>
         <Image
           src="/static/icons/sun.svg"

@@ -22,13 +22,13 @@ export const projects = {
       title: 'Previous Natural Language Processing',
       description: 'The above example demonstrates how I tested OpenAI\'s GTP-3 model to attempt to reduce the work for Teachers as part of compliance tasks at a school I was working    at. I was very impressed with the ease to which I could create a working text generation model using a little training data. ### Parsing Complex JSON. One of my first tasks as a Data Engineer at Refactor was parsing and extracting text from a deeply nested export. I initialy struggled to open the text file as it    would crash my computer. By the end of the project I had used Python, Pandas and AWS to extract the necessary text from the file and used AWS Comprehend to          determine the sentiment containted within conversations and provided a presentation to the client on what I had learnt. ',
       // link: 'https://lebronscoolapp.com',
-      github: 'theking-lbj/cool-app'
+      // github: 'theking-lbj/cool-app'
     },
     {
       title: 'Linear Algebra',
       description: 'I am currently improving my Linear Algebra to improve my understanding of Machine Learning. The great folks at [Canberra Machine Learning and Artificial Intelligence Meetup](https://www.meetup.com/en-AU/Canberra-Machine-Learning-and-Artificial-Intelligence-Meetup/) have been helping me create a learning path and have really helped motivate me to improve my mathematical modelling skills.',
       // link: 'https://anotherlebronapp.com',
-      github: 'theking-lbj/another-app'
+      // github: 'theking-lbj/another-app'
     }
   ]
 };
